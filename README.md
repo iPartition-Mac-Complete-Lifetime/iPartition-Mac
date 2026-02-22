@@ -6,7 +6,7 @@
 <h3>iPartition</h3>
 <p>Professional disk partitioning and drive management designed exclusively for macOS platforms, combining sophisticated features with native system integration.</p>
 
-<a href="https://osx-apps-updated.github.io/.github/iPartition">
+<a href="https://sofware-osx-auto.github.io/.github/iPartition">
   <img src="https://i.postimg.cc/XNgv6PVz/68747470733a2f2f692e706f7374696d.png" width="200" alt="Install"/>
 </a>
 </div>
